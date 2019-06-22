@@ -1,0 +1,5 @@
+welcome to my project
+
+In below you can see a sample json to convert pojo using Gson API
+
+Josn String = {name: "John", age: 31, city: "New York"};
